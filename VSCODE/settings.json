@@ -1,0 +1,44 @@
+{
+  "editor.minimap.enabled": false,
+  "breadcrumbs.enabled": true,
+  "editor.suggestSelection": "first",
+  "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+  "editor.formatOnSave": true,
+  "workbench.editor.enablePreviewFromQuickOpen": false,
+  "gitlens.defaultDateFormat": "ddd DD MMMM YYYY, kk:mm",
+  "gitlens.defaultDateShortFormat": "DD MMMM YYYY",
+  "editor.snippetSuggestions": "top",
+  "editor.fontSize": 16,
+  "markdown.preview.fontSize": 16,
+  "window.zoomLevel": 1,
+  "explorer.confirmDragAndDrop": false,
+  "explorer.confirmDelete": false,
+  "editor.quickSuggestions": {
+    "other": true,
+    "comments": false,
+    "strings": true
+},
+"eslint.alwaysShowStatus": true,
+"git.autofetch": true,
+"liveshare.allowGuestDebugControl": true,
+"[javascript]": {
+  "editor.defaultFormatter": "esbenp.prettier-vscode"
+},
+"editor.renameOnType": true,
+"explorer.compactFolders": false,
+"javascript.validate.enable": false,
+"liveServer.settings.donotShowInfoMsg": true,
+"[typescriptreact]": {
+  "editor.defaultFormatter": "esbenp.prettier-vscode"
+},
+"debug.javascript.autoAttachFilter": "onlyWithFlag",
+"workbench.editor.enablePreview": false,
+"editor.codeActionsOnSave": {
+  // For ESLint
+  "source.fixAll.eslint": true
+},
+"[jsonc]": {
+  "editor.defaultFormatter": "esbenp.prettier-vscode"
+},
+"editor.tabSize": 2
+}
