@@ -2,6 +2,7 @@
 Configurations to follow airbnb code styles for my react projects.
 
 - Airbnb Code Style
+- React
 - Typescript
 - ESlint
 - Prettier
