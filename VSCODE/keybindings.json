@@ -28,5 +28,9 @@
     "key": "f3",
     "command": "-editor.action.nextMatchFindAction",
     "when": "editorFocus"
-  }
+  },
+  {
+		"key": "alt+q",
+		"command": "workbench.action.navigateLast"
+	}
 ]
